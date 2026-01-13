@@ -37,7 +37,8 @@ Customer segmentation
 Discount impact analysis
 Shipping and payment trends
 
-6️.Reporting & Presentation
+6️.Reporting & Presentation:
+
 Created a detailed analytical report.
 Designed a professional PPT using Gamma for stakeholder presentation.
 
